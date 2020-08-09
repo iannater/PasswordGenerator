@@ -1,6 +1,6 @@
 # Ian's Password Generator
 
-For this assignment we created a random password generator. It allows for the user to click a button and then ask series of questions in order to create the password for them. 
+For this assignment we created a random password generator. It allows for the user to click a button and then asks a series of questions in order to create a password for them. 
 
 ## What I Thought About the Assignment
 
